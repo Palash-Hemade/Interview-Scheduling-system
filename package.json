@@ -2,7 +2,7 @@
   "name": "interview-scheduling-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Heisenberg-2106.github.io/interview_scheduler_website/docs",
+  "homepage": "https://github.com/Palash-Hemade/Interview-Scheduling-system",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --repo https://github.com/Heisenberg-2106/interview_scheduler_website.git"
+    "deploy": "gh-pages -d build --repo https://github.com/Palash-Hemade/Interview-Scheduling-system.git"
   },
   "eslintConfig": {
     "extends": [
