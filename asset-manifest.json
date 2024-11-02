@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interview_scheduler_website/static/css/main.f01f8ce6.css",
+    "main.js": "/interview_scheduler_website/static/js/main.d3415404.js",
+    "static/js/453.9090d6bc.chunk.js": "/interview_scheduler_website/static/js/453.9090d6bc.chunk.js",
+    "index.html": "/interview_scheduler_website/index.html",
+    "main.f01f8ce6.css.map": "/interview_scheduler_website/static/css/main.f01f8ce6.css.map",
+    "main.d3415404.js.map": "/interview_scheduler_website/static/js/main.d3415404.js.map",
+    "453.9090d6bc.chunk.js.map": "/interview_scheduler_website/static/js/453.9090d6bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01f8ce6.css",
+    "static/js/main.d3415404.js"
+  ]
+}
